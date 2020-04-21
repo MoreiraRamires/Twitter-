@@ -4,4 +4,6 @@
 
 O projeto foi baseado na série de cursos da Rocketseat: https://www.youtube.com/watch?v=BN_8bCfVp88&list=PL85ITvJ7FLoiXVwHXeOsOuVppGbBzo2dp 
 
-Obrigado a todos pela oportunidade
+Obrigado a todos. 
+
+
